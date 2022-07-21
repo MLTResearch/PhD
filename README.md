@@ -3,6 +3,7 @@
 Papers, presentations and other documents around my PhD: Motor and visual determinants of anticipation judgdment in badminton : Effects of fatigue and expertise.
 
 ✍️ 
+
 DOI: https://doi.org/10.3389/fspor.2021.725625
 
 Link: https://theconversation.com/champions-sportifs-anticiper-pour-mieux-performer-184019 
